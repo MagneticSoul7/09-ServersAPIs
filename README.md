@@ -8,16 +8,16 @@ This application lets a user search the weather in different cities.
 
 ## Table of Contents: 
 
-1. Title <br> 
-2. Description <br> 
-3. Table of Contents <br> 
-4. Technologies Used <br> 
-5. User Story <br> 
-6. Installation <br> 
-7. Usage <br> 
-8. Contributors/Author Info <br> 
-9. License <br> 
-10. Deployed Link <br> 
+1. [Title](#Weather-Dashboard) 
+2. [Description](#description) 
+3. [Table of Contents](#table-of-contents) 
+4. [Technologies Used](#technologies-used) 
+5. [User Story](#user-story) 
+6. [Installation](#installation) 
+7. [Usage](#usage) 
+8. [Contributors/Author Info](#contributorsauthor-info) 
+9. [License](#license) 
+10. [Deployed Link](#deployed-link) 
 
 ## Technologies Used
 
